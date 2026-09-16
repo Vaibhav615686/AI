@@ -2,7 +2,7 @@ numpy
 pandas
 seaborn
 scikit-learn
-tensorflow=2.20.0
+tensorflow==2.20.0
 keras
 tensorboard
 matplotlib
